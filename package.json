@@ -1,0 +1,16 @@
+{
+  "name": "analysis",
+  "version": "1.0.0",
+  "description": "Static Code Analysis for Office.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "7.0.13",
+    "typescript": "2.2.2"
+  }
+}
